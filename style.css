@@ -1,22 +1,23 @@
 .blue{
     background-color: darkslateblue;
     padding: 50px;
-    margin: 30px;
+    margin: 5px;
+    justify-content: center;
 }
 .og{
     background-color: rgb(182, 124, 17);
     justify-content: center;
-    padding: 50px;
-    margin: 20px;
+    padding: 40;
+    margin: 130;
 }
 .yo{
     padding: 50;
-    margin: 30;
+    margin: 20;
     background-color: moccasin;
 }
 .yo2{
     padding: 50;
-    margin: 30;
+    margin: 20;
     width: 150;
     background-color: moccasin;
 }
