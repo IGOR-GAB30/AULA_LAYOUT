@@ -1,0 +1,25 @@
+.blue{
+    background-color: darkslateblue;
+    padding: 50px;
+    margin: 30px;
+}
+.og{
+    background-color: rgb(182, 124, 17);
+    justify-content: center;
+    padding: 50px;
+    margin: 20px;
+}
+.yo{
+    padding: 50;
+    margin: 30;
+    background-color: moccasin;
+}
+.yo2{
+    padding: 50;
+    margin: 30;
+    width: 150;
+    background-color: moccasin;
+}
+.flex{
+    display: flex;
+}
