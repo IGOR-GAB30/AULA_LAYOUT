@@ -21,6 +21,12 @@
     width: 150;
     background-color: moccasin;
 }
+.inv{
+    padding: 50;
+    margin: 20;
+    width: 150;
+    background-color: rgb(182, 124, 17);
+}
 .yhgt{
     background-color:moccasin;
     padding: 50;
